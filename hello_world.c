@@ -1,7 +1,6 @@
 #include<stdio.h>
 
-int main(void){
-	printf("Hello World\n
-		gcc testing\n");
-	return 0;
+int main(){
+	printf("Hello World\ngcc testing\n");
+	return -1;
 }
