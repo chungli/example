@@ -1,3 +1,0 @@
-Author: Chew Chi Ruey <vincent.chew@aeste.net>
-
-Hello, GIT
