@@ -1,0 +1,15 @@
+G04 start of page 8 for group -4015 idx -4015 *
+G04 Title: (unknown), toppaste *
+G04 Creator: pcb 20091103 *
+G04 CreationDate: Fri 21 Oct 2011 07:46:04 AM GMT UTC *
+G04 For: kampai *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions: 600000 500000 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNFRONTPASTE*%
+%ADD13R,0.0395X0.0395*%
+G54D13*X263118Y368984D02*Y368000D01*
+X258000Y368984D02*Y368000D01*
+M02*
